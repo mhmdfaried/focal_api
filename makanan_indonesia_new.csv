@@ -1,0 +1,166 @@
+id,nama_makanan,deskripsi,kategori,kalori,status_kesehatan,jenis,keterangan_kalori,lemak,karbohidrat,protein
+2,Gado-Gado,"Sayuran rebus seperti kacang panjang, tauge, dan kol disiram saus kacang yang gurih, kadang ditambah lontong atau kerupuk sebagai pelengkap.",makanan,250,sehat,makanan berat,Sedang,10,30,8
+6,Soto Ayam,"Sup ayam berkuah kuning yang kaya rempah seperti kunyit, lengkuas, dan serai, disajikan dengan bihun, telur rebus, emping, dan perasan jeruk nipis.",makanan,300,sehat,makanan berat,Sedang,12,25,15
+11,Tahu Gejrot,"Tahu goreng kecil yang dipotong-potong dan disiram dengan bumbu kuah manis pedas dari gula merah, bawang, dan cabai.",makanan,180,sehat,makanan ringan,Rendah,5,20,10
+17,Getuk,"Olahan singkong yang dihaluskan dan dicampur dengan gula merah, dibentuk warna-warni dan disajikan dengan taburan kelapa parut.",makanan,190,sehat,cemilan,Rendah,4,35,2
+23,Asinan Betawi,"Sayuran segar seperti kol, tauge, dan wortel yang direndam dalam kuah cuka manis asam, sering ditambahkan kerupuk sebagai pelengkap.",makanan,200,sehat,makanan ringan,Rendah,3,40,3
+30,Sayur Asem,"Sup asam segar khas Indonesia dengan bahan seperti kacang panjang, jagung, melinjo, dan labu siam, dimasak dengan bumbu asam jawa.",makanan,150,sehat,makanan berat,Rendah,2,25,5
+31,Rujak Buah,"Buah segar seperti mangga, nanas, dan jambu disajikan dengan bumbu kacang pedas manis yang terbuat dari gula merah, cabai, dan asam jawa.",makanan,180,sehat,cemilan,Rendah,1,40,2
+33,Tempe Goreng,"Tempe kedelai yang digoreng hingga renyah, sering dijadikan lauk atau camilan dengan tambahan sambal.",makanan,250,sehat,makanan ringan,Sedang,15,10,20
+43,Lemper,"Olahan ketan yang diisi ayam suwir berbumbu atau abon, dibungkus daun pisang dan dikukus hingga matang.",makanan,220,sehat,cemilan,Rendah,6,35,8
+50,Nasi Pecel,"Nasi dengan sayuran rebus seperti bayam, kacang panjang, dan tauge, disiram sambal kacang yang gurih dan pedas.",makanan,340,sehat,makanan berat,Sedang,10,50,12
+54,Lontong Balap,"Lontong dengan tauge, lentho (kacang hijau goreng), dan sambal petis, disajikan dengan kuah gurih khas Surabaya.",makanan,250,sehat,makanan berat,Sedang,8,40,10
+55,Sate Lilit,"Sate khas Bali dari ikan cincang berbumbu rempah seperti serai, kelapa parut, dan cabai, dililitkan ke batang serai lalu dipanggang.",makanan,220,sehat,makanan berat,Rendah,5,10,25
+57,Karedok,"Sayuran mentah seperti kacang panjang, kol, dan tauge disiram saus kacang khas Sunda yang pedas dan segar.",makanan,180,sehat,makanan ringan,Rendah,6,20,8
+62,Sayur Bayam,"Bayam segar dimasak dalam kuah bening dengan tambahan jagung manis dan wortel, cocok untuk menu sehat sehari-hari.",makanan,150,sehat,makanan ringan,Rendah,2,25,5
+65,Wedang Jahe,"Minuman tradisional Jawa yang terbuat dari jahe segar, gula merah, dan air hangat, memberikan rasa hangat dan menenangkan.",minuman,100,sehat,minuman,Rendah,0,25,0
+71,Bubur Ayam,"Bubur nasi yang lembut disajikan dengan suwiran ayam, cakwe, kerupuk, dan ditaburi bawang goreng, memberikan rasa gurih dan kenikmatan.",makanan,290,sehat,makanan berat,Sedang,10,40,15
+73,Nasi Lengko,"Nasi dengan tahu, tempe, dan tauge yang disiram dengan kecap manis dan sambal, khas Cirebon.",makanan,300,sehat,makanan berat,Sedang,12,50,18
+75,Puding Santan,"Puding yang lembut dan kenyal terbuat dari santan, gula aren, dan tepung beras, memberikan rasa manis dan gurih.",makanan,200,sehat,cemilan,Rendah,8,30,5
+80,Sambal Ijo,"Sambal yang terbuat dari cabai hijau, tomat, dan bawang, memberikan rasa pedas dan segar, cocok sebagai pelengkap makanan.",makanan,120,sehat,makanan ringan,Rendah,6,10,2
+83,Lupis,"Ketan yang dibentuk bulat dan diselimuti dengan kelapa parut serta gula merah cair, memberikan rasa manis dan gurih.",makanan,240,sehat,cemilan,Rendah,4,50,5
+84,Kacang Rebus,"Kacang tanah yang direbus dengan kulitnya, memberikan rasa gurih dan tekstur yang renyah.",makanan,180,sehat,cemilan,Rendah,8,10,7
+86,Bakpia,"Kue yang diisi dengan kacang hijau yang manis, dibungkus dengan adonan tipis dan dipanggang hingga matang.",makanan,220,sehat,cemilan,Rendah,6,30,8
+87,Nasi Jagung,"Nasi yang dicampur dengan jagung manis dan bahan lainnya, memberikan rasa manis dan gurih, sering disajikan dengan lauk pauk.",makanan,300,sehat,makanan berat,Sedang,10,55,12
+91,Sambal Matah,"Sambal mentah khas Bali yang terbuat dari bawang merah, cabai, dan serai, memberikan rasa pedas dan segar.",makanan,100,sehat,makanan ringan,Rendah,8,5,2
+93,Lempeng Pisang,"Kue tradisional yang terbuat dari pisang dan tepung beras, dimasak di atas daun pisang hingga matang.",makanan,230,sehat,cemilan,Rendah,4,35,3
+94,Binte Biluhuta,"Sup jagung manis yang dimasak dengan ikan dan kemangi, memberikan rasa gurih dan segar.",makanan,250,sehat,makanan berat,Sedang,10,40,15
+101,Pepes Ikan,"Ikan yang dibumbui rempah-rempah dan dibungkus daun pisang, kemudian dikukus hingga matang, memberikan rasa gurih dan aroma yang khas.",makanan,220,sehat,makanan berat,Rendah,12,5,30
+102,Urap-Urap,"Sayuran segar seperti kacang panjang, tauge, dan kol yang dicampur dengan kelapa parut dan bumbu rempah, memberikan rasa gurih dan segar.",makanan,180,sehat,makanan ringan,Rendah,8,15,5
+103,Sup Ikan,"Sup bening yang kaya akan gizi, terbuat dari ikan segar dan sayuran, memberikan rasa gurih dan segar.",makanan,200,sehat,makanan berat,Rendah,10,10,25
+104,Pepes Tahu,"Tahu yang dibumbui rempah-rempah dan dibungkus daun pisang, kemudian dikukus hingga matang, memberikan rasa gurih dan aroma yang khas.",makanan,190,sehat,makanan ringan,Rendah,8,5,15
+105,Tumis Kangkung,"Kangkung yang ditumis dengan bawang putih dan cabai, memberikan rasa gurih dan sedikit pedas, cocok untuk lauk pendamping.",makanan,150,sehat,makanan ringan,Rendah,6,10,5
+106,Oseng-Oseng Tempe,"Tempe yang ditumis dengan bumbu sederhana seperti bawang merah dan cabai, memberikan rasa gurih dan sedikit pedas.",makanan,210,sehat,makanan ringan,Sedang,8,15,10
+107,Buntil,"Daun pepaya muda yang diisi dengan parutan kelapa dan bumbu rempah, dibungkus dan dikukus hingga matang.",makanan,170,sehat,makanan ringan,Rendah,4,20,3
+108,Sup Jagung,"Sup jagung manis yang dimasak dengan bahan-bahan segar seperti ayam atau seafood, memberikan rasa gurih dan manis.",makanan,230,sehat,makanan berat,Rendah,10,30,15
+109,Ikan Bakar,"Ikan segar yang dibakar dengan bumbu sederhana seperti garam dan jeruk nipis, memberikan rasa gurih dan aroma yang menggugah selera.",makanan,250,sehat,makanan berat,Sedang,12,5,30
+110,Capcay Kuah,"Sayuran yang ditumis dengan bumbu sederhana dan kuah bening, memberikan rasa segar dan gurih, sering ditambahkan dengan protein seperti ayam atau udang.",makanan,190,sehat,makanan ringan,Rendah,8,10,5
+111,Nagasari,"Kue yang terbuat dari tepung beras yang diisi dengan pisang, dibungkus daun pisang dan dikukus hingga matang.",makanan,180,sehat,cemilan,Rendah,4,35,3
+112,Kue Putu,"Kue tradisional yang terbuat dari tepung beras yang diisi dengan gula merah, dikukus dalam tabung bambu, memberikan rasa manis dan gurih.",makanan,160,sehat,cemilan,Rendah,6,20,4
+113,Ongol-Ongol,"Kue yang terbuat dari tepung sagu yang dicampur dengan gula merah, memberikan rasa manis dan tekstur yang kenyal.",makanan,170,sehat,cemilan,Rendah,4,30,2
+115,Lemper Ayam,"Ketan yang dibungkus daun pisang dan diisi dengan ayam suwir berbumbu, dikukus hingga matang, memberikan rasa gurih dan aroma yang khas.",makanan,230,sehat,cemilan,Rendah,8,35,10
+117,Kue Ape,"Kue panggang berbentuk setengah lingkaran yang terbuat dari tepung beras, diisi dengan gula merah dan kelapa parut.",makanan,180,sehat,cemilan,Rendah,6,20,4
+120,Kue Putu Ayu,"Kue hijau yang terbuat dari pandan, diisi dengan kelapa parut, dikukus dalam cetakan, memberikan rasa manis dan gurih.",makanan,190,sehat,cemilan,Rendah,8,25,5
+121,Acar Kuning,"Sayuran acar yang diberi bumbu kunyit, memberikan rasa asam, manis, dan sedikit pedas, cocok sebagai pelengkap makanan.",makanan,120,sehat,makanan ringan,Rendah,2,10,1
+122,Pecel,"Sayuran rebus seperti kangkung, tauge, dan kol yang disiram dengan sambal kacang tanpa santan, memberikan rasa segar dan gurih.",makanan,170,sehat,makanan ringan,Rendah,6,15,5
+124,Sop Oyong,"Sup yang terbuat dari oyong (gambas) dan wortel, dimasak dengan bumbu sederhana, memberikan rasa segar dan gurih.",makanan,140,sehat,makanan ringan,Rendah,2,10,3
+125,Tumis Buncis,"Buncis yang ditumis dengan bawang putih dan sedikit minyak, memberikan rasa gurih dan renyah, cocok untuk lauk pendamping.",makanan,130,sehat,makanan ringan,Rendah,4,8,3
+126,Sop Tahu,"Sup yang terbuat dari tahu, jamur, dan sayuran, dimasak dengan bumbu sederhana, memberikan rasa gurih dan lezat.",makanan,160,sehat,makanan ringan,Rendah,6,10,5
+127,Oseng Kacang Panjang,"Kacang panjang yang ditumis dengan tempe dan bumbu sederhana, memberikan rasa gurih dan renyah.",makanan,180,sehat,makanan ringan,Rendah,8,15,7
+128,Tumis Jamur,"Jamur tiram yang ditumis dengan bawang putih dan sedikit minyak, memberikan rasa gurih dan tekstur yang kenyal.",makanan,150,sehat,makanan ringan,Rendah,4,10,3
+129,Sop Kimlo,"Sup bening yang terbuat dari jamur, sayuran, dan kaldu ayam, memberikan rasa gurih dan segar.",makanan,190,sehat,makanan ringan,Rendah,6,15,5
+130,Tahu Sutra,"Tahu yang lembut dan kenyal, disajikan dengan kuah bening yang gurih, sering ditambahkan dengan sayuran segar.",makanan,160,sehat,makanan ringan,Rendah,4,10,3
+132,Bubur Manado,"Bubur yang terbuat dari beras yang dimasak dengan berbagai sayuran khas Manado, memberikan rasa gurih dan kaya akan gizi.",makanan,230,sehat,makanan berat,Rendah,8,40,10
+133,Soto Banjar,"Sop ayam yang kaya akan rempah seperti kayu manis, cengkeh, dan kapulaga, disajikan dengan nasi, telur, dan sambal.",makanan,290,sehat,makanan berat,Sedang,10,35,15
+134,Pallu Mara,"Sup ikan yang dimasak dengan bumbu asam pedas khas Sulawesi, memberikan rasa segar dan menggugah selera.",makanan,250,sehat,makanan berat,Sedang,12,30,20
+136,Lapa-Lapa,"Nasi ketan yang dibungkus daun kelapa dan dimasak dengan cara dikukus, memberikan rasa gurih dan aroma yang khas.",makanan,260,sehat,makanan berat,Sedang,8,50,10
+140,Lemang,"Nasi ketan yang dimasak dalam bambu dengan api arang, memberikan rasa gurih dan aroma yang khas.",makanan,280,sehat,makanan berat,Sedang,10,60,12
+142,Bandrek,"Minuman tradisional yang terbuat dari jahe, gula aren, dan rempah-rempah, memberikan rasa hangat dan menenangkan.",minuman,120,sehat,minuman,Rendah,0,30,0
+148,Teh Poci,"Teh tradisional yang disajikan dalam teko tanah liat, memberikan rasa teh yang kuat dan aroma yang khas.",minuman,80,sehat,minuman,Rendah,0,20,0
+149,Kopi Tubruk,"Kopi yang diseduh dengan cara tradisional, memberikan rasa kopi yang kuat dan kaya akan aroma.",minuman,90,sehat,minuman,Rendah,0,15,0
+151,Pepes Jamur,"Jamur yang dibungkus dengan daun pisang dan dibumbui rempah-rempah, kemudian dikukus hingga matang, memberikan rasa gurih dan aroma yang khas.",makanan,120,sehat,makanan ringan,Rendah,6,10,15
+153,Tumis Pakis,"Sayuran pakis yang ditumis dengan bawang putih dan bumbu sederhana, memberikan rasa gurih dan sedikit renyah.",makanan,130,sehat,makanan ringan,Rendah,4,8,3
+154,Ubi Rebus,"Ubi jalar atau ubi ungu yang direbus hingga empuk, memberikan rasa manis alami dan tekstur yang lembut.",makanan,100,sehat,cemilan,Rendah,0,20,2
+155,Kacang Panjang Rebus,"Kacang panjang yang direbus dengan sedikit garam, memberikan rasa gurih dan renyah.",makanan,70,sehat,makanan ringan,Rendah,2,10,3
+156,Es Kelapa Muda,"Minuman segar yang terbuat dari air kelapa muda asli, disajikan dengan es batu.",minuman,70,sehat,minuman,Rendah,0,15,0
+161,Es Teh Lemon,"Minuman segar yang terbuat dari teh dingin dan perasan lemon, memberikan rasa asam dan segar.",minuman,80,sehat,minuman,Rendah,0,20,0
+163,Telur Pindang,"Telur rebus yang dimasak dengan bumbu rempah khas Jawa, memberikan rasa gurih dan aroma yang khas.",makanan,160,sehat,makanan ringan,Rendah,8,10,12
+164,Keripik Bayam,"Keripik yang terbuat dari bayam yang digoreng renyah dengan balutan tepung tipis, memberikan rasa gurih dan renyah.",makanan,130,sehat,cemilan,Rendah,6,15,3
+1,Nasi Goreng,"Nasi goreng yang kaya akan bumbu bawang putih, kecap manis, telur, dan potongan ayam, memberikan rasa gurih dan sedikit manis.",makanan,350,tidak sehat,makanan berat,Sedang,15,45,10
+3,Martabak Manis,"Adonan tepung yang dipanggang dan diisi dengan cokelat, keju, kacang, dan susu, memberikan rasa manis dan gurih.",makanan,450,tidak sehat,cemilan,Tinggi,20,50,15
+4,Bakso Kuah,"Bakso daging sapi yang kenyal disajikan dalam kuah kaldu yang gurih dengan tambahan mie dan sayuran.",makanan,380,tidak sehat,makanan berat,Sedang,18,40,25
+7,Rawon,"Sup daging sapi yang kaya akan rempah dengan warna hitam pekat dari kluwek, disajikan dengan nasi, sambal, dan kerupuk.",makanan,420,tidak sehat,makanan berat,Tinggi,20,35,30
+8,Rendang,"Daging sapi yang dimasak dalam santan dan rempah-rempah hingga empuk dan kaya rasa, memberikan cita rasa yang khas dan menggugah selera.",makanan,400,tidak sehat,makanan berat,Sedang,25,20,35
+9,Pecel Lele,"Ikan lele yang digoreng krispi disajikan dengan sambal terasi dan lalapan segar, memberikan rasa gurih dan pedas.",makanan,450,tidak sehat,makanan berat,Tinggi,25,10,40
+12,Kerak Telor,"Telur bebek dan ketan yang dicampur dengan serundeng bakar, dimasak dalam wajan datar hingga matang, memberikan rasa gurih dan tekstur yang unik.",makanan,400,tidak sehat,makanan berat,Sedang,20,30,15
+13,Sop Buntut,"Sup buntut sapi yang dimasak dengan rempah-rempah dan sayuran, memberikan rasa gurih dan kaya akan gizi.",makanan,420,tidak sehat,makanan berat,Tinggi,25,35,20
+14,Ayam Penyet,"Ayam goreng yang dipenyet dengan sambal terasi, disajikan dengan nasi, tahu, dan tempe, memberikan rasa gurih dan pedas.",makanan,430,tidak sehat,makanan berat,Tinggi,20,40,25
+18,Bika Ambon,"Kue tradisional dari Medan yang memiliki tekstur bersarang dan rasa manis, gurih, serta aroma rempah yang khas.",makanan,320,tidak sehat,cemilan,Sedang,10,50,5
+19,Lapis Legit,"Kue lapis yang memiliki banyak lapisan dengan rasa manis dan aroma rempah yang kuat, memberikan cita rasa yang khas.",makanan,450,tidak sehat,cemilan,Tinggi,20,60,10
+20,Pempek,"Olahan ikan dan sagu yang dibentuk pipih dan digoreng, disajikan dengan kuah cuko yang asam pedas, memberikan rasa gurih dan segar.",makanan,350,tidak sehat,makanan berat,Sedang,15,40,10
+21,Serabi,"Pancake tradisional yang terbuat dari tepung beras, disajikan dengan taburan kelapa parut dan gula merah cair, memberikan rasa manis dan gurih.",makanan,280,tidak sehat,cemilan,Sedang,10,50,5
+22,Sambal Goreng Ati,"Hati ayam yang dimasak dengan bumbu sambal goreng dan kentang, memberikan rasa pedas, manis, dan gurih.",makanan,390,tidak sehat,makanan berat,Sedang,25,30,15
+24,Tumpeng,"Nasi kuning yang disajikan dalam bentuk kerucut dengan berbagai lauk pauk, memberikan rasa gurih dan kaya akan rempah.",makanan,600,tidak sehat,makanan berat,Tinggi,20,80,15
+25,Opor Ayam,"Ayam yang dimasak dengan santan dan bumbu rempah hingga empuk, disajikan dengan nasi, memberikan rasa gurih dan kaya akan rempah.",makanan,380,tidak sehat,makanan berat,Sedang,18,35,20
+26,Gudeg,"Nangka muda yang dimasak dengan santan dan gula merah, memberikan rasa manis dan gurih, khas Yogyakarta.",makanan,450,tidak sehat,makanan berat,Tinggi,20,50,10
+27,Nasi Kuning,"Nasi yang dimasak dengan bumbu kunyit dan santan, disajikan dengan berbagai lauk, memberikan rasa gurih dan kaya akan rempah.",makanan,370,tidak sehat,makanan berat,Sedang,15,45,10
+28,Sate Padang,"Sate daging yang disajikan dengan kuah kental bumbu kuning dan sambal, memberikan rasa gurih, pedas, dan sedikit manis.",makanan,400,tidak sehat,makanan berat,Sedang,20,40,15
+29,Ayam Betutu,"Ayam utuh yang dibumbui rempah khas Bali dan dipanggang, memberikan rasa gurih, pedas, dan aroma yang menggugah selera.",makanan,390,tidak sehat,makanan berat,Sedang,25,35,20
+34,Telur Balado,"Telur rebus yang digoreng dan dimasak dengan sambal balado yang pedas, memberikan rasa gurih dan pedas yang menggigit.",makanan,320,tidak sehat,makanan berat,Sedang,18,10,20
+35,Nasi Uduk,"Nasi yang dimasak dengan santan dan rempah, disajikan dengan lauk pauk, memberikan rasa gurih dan kaya akan rempah.",makanan,400,tidak sehat,makanan berat,Sedang,15,45,10
+36,Nasi Liwet,"Nasi yang dimasak dengan santan, lauk ayam, telur, dan sayuran, memberikan rasa gurih dan kaya akan gizi.",makanan,420,tidak sehat,makanan berat,Tinggi,20,50,15
+38,Ayam Goreng Lengkuas,"Ayam goreng yang dibumbui dengan bumbu lengkuas parut, memberikan rasa gurih dan aroma yang khas.",makanan,410,tidak sehat,makanan berat,Tinggi,25,35,20
+39,Empal Gepuk,"Daging sapi yang dimasak dengan bumbu manis gurih dan digoreng, memberikan rasa gurih, manis, dan sedikit pedas.",makanan,430,tidak sehat,makanan berat,Tinggi,20,40,25
+46,Batagor,"Bakso tahu yang digoreng dan disajikan dengan bumbu kacang, memberikan rasa gurih dan renyah.",makanan,400,tidak sehat,makanan berat,Sedang,18,30,10
+49,Semur Jengkol,"Jengkol yang dimasak dengan bumbu semur yang manis dan kaya rempah, memberikan rasa gurih dan aroma yang khas.",makanan,380,tidak sehat,makanan berat,Sedang,15,25,10
+51,Nasi Campur,"Nasi yang disajikan dengan aneka lauk seperti telur, ayam, dan sambal, memberikan rasa gurih dan kaya akan rempah.",makanan,400,tidak sehat,makanan berat,Sedang,20,45,15
+52,Sate Kambing,"Tusukan daging kambing yang dibakar dan disajikan dengan kecap dan bawang, memberikan rasa gurih, manis, dan sedikit pedas.",makanan,450,tidak sehat,makanan berat,Tinggi,25,50,20
+56,Gulai Kambing,"Masakan kambing yang dimasak dengan kuah santan dan rempah-rempah, memberikan rasa gurih, pedas, dan kaya akan rempah.",makanan,470,tidak sehat,makanan berat,Tinggi,30,40,25
+59,Es Cendol,"Minuman manis yang terbuat dari santan, gula merah, dan tepung beras, disajikan dengan es serut.",makanan,250,tidak sehat,cemilan,Sedang,10,35,5
+63,Nasi Kebuli,"Nasi yang dimasak dengan bumbu khas Timur Tengah dan daging kambing, memberikan rasa gurih, rempah, dan sedikit manis.",makanan,520,tidak sehat,makanan berat,Tinggi,25,60,20
+66,Es Teler,"Minuman es yang terbuat dari buah-buahan segar, susu, dan sirup, memberikan rasa manis, segar, dan creamy.",minuman,350,tidak sehat,minuman,Sedang,15,50,5
+70,Kue Cubit,"Kue kecil yang manis dan lembut, sering dijajakan di sekolah, memberikan rasa manis dan sedikit gurih.",makanan,210,tidak sehat,cemilan,Rendah,8,30,3
+76,Es Doger,"Es yang terbuat dari kelapa muda, tape, ketan hitam, dan sirup, memberikan rasa manis, segar, dan sedikit gurih.",minuman,340,tidak sehat,minuman,Sedang,10,50,5
+77,Roti Bakar,"Roti yang diisi dengan cokelat atau keju, kemudian dipanggang hingga keju meleleh, memberikan rasa gurih dan manis.",makanan,350,tidak sehat,cemilan,Sedang,15,45,10
+81,Telur Dadar Padang,"Telur dadar yang tebal dan gurih, khas rumah makan Padang, memberikan rasa gurih dan kaya akan protein.",makanan,400,tidak sehat,makanan berat,Sedang,30,10,35
+88,Oseng Mercon,"Daging yang dimasak dengan bumbu pedas khas Yogyakarta, memberikan rasa pedas, gurih, dan aroma yang menggugah selera.",makanan,450,tidak sehat,makanan berat,Tinggi,25,35,20
+89,Nasi Krawu,"Nasi yang disajikan dengan suwiran daging dan serundeng khas Gresik, memberikan rasa gurih, pedas, dan kaya akan rempah.",makanan,420,tidak sehat,makanan berat,Tinggi,20,40,15
+90,Es Campur,"Es serut yang dicampur dengan sirup, buah, dan jeli, memberikan rasa manis, segar, dan tekstur yang beragam.",minuman,350,tidak sehat,minuman,Sedang,10,50,5
+92,Ayam Kalasan,"Ayam goreng yang dibumbui dengan bumbu manis khas Yogyakarta, memberikan rasa gurih, manis, dan sedikit pedas.",makanan,400,tidak sehat,makanan berat,Sedang,20,35,15
+95,Tinoransak,"Daging yang dimasak dengan bumbu pedas khas Manado, memberikan rasa pedas, gurih, dan kaya akan rempah.",makanan,420,tidak sehat,makanan berat,Tinggi,25,30,20
+96,Ayam Taliwang,"Ayam yang dibakar dengan bumbu pedas khas Lombok, memberikan rasa pedas, gurih, dan aroma yang menggugah selera.",makanan,410,tidak sehat,makanan berat,Tinggi,20,35,15
+97,Nasi Becek,"Nasi yang disiram dengan kuah daging seperti gulai, memberikan rasa gurih, pedas, dan kaya akan rempah.",makanan,430,tidak sehat,makanan berat,Tinggi,25,40,20
+98,Es Pisang Ijo,"Pisang yang dibungkus dengan adonan hijau dan disajikan dengan es dan sirup, memberikan rasa manis, segar, dan sedikit gurih.",makanan,360,tidak sehat,cemilan,Sedang,10,50,5
+5,Sate Ayam,"Tusukan daging ayam yang dibakar dan disajikan dengan bumbu kacang, memberikan rasa gurih, manis, dan sedikit pedas.",makanan,350,sedang,makanan berat,Sedang,15,40,10
+10,Lontong Sayur,"Lontong yang disiram dengan kuah santan dan sayuran, memberikan rasa gurih, santan, dan segar.",makanan,330,sedang,makanan berat,Sedang,12,35,8
+15,Klepon,"Bola ketan yang diisi dengan gula merah, ditaburi kelapa parut, memberikan rasa manis, gurih, dan tekstur yang kenyal.",makanan,200,sedang,cemilan,Rendah,6,40,4
+16,Dadar Gulung,"Kue dadar yang diisi dengan kelapa parut dan gula merah, memberikan rasa manis, gurih, dan tekstur yang lembut.",makanan,210,sedang,cemilan,Rendah,8,35,5
+32,Perkedel Kentang,"Olahan kentang yang ditumbuk dan dibentuk bulat, digoreng hingga kecokelatan, memberikan rasa gurih dan tekstur yang renyah.",makanan,210,sedang,makanan ringan,Rendah,10,30,4
+37,Sambal Terasi,"Sambal yang terbuat dari terasi, cabai, dan tomat, memberikan rasa pedas, gurih, dan aroma yang khas.",makanan,120,sedang,makanan ringan,Rendah,6,10,2
+40,Pastel,"Gorengan yang diisi dengan sayur dan bihun, dibungkus dengan adonan tipis, memberikan rasa gurih dan renyah.",makanan,280,sedang,cemilan,Sedang,12,25,5
+41,Risoles,"Lumpia goreng yang diisi dengan ragout ayam atau sayur, memberikan rasa gurih, renyah, dan sedikit pedas.",makanan,300,sedang,cemilan,Sedang,15,30,10
+42,Perkedel Jagung,"Bakwan jagung yang digoreng hingga kriuk, memberikan rasa manis, gurih, dan tekstur yang renyah.",makanan,290,sedang,makanan ringan,Sedang,10,35,5
+44,Arem-Arem,"Nasi yang diisi dengan lauk pauk dan dibungkus daun pisang, dikukus hingga matang, memberikan rasa gurih dan aroma yang khas.",makanan,260,sedang,makanan ringan,Sedang,8,40,10
+45,Combro,"Olahan singkong yang digoreng dengan isi oncom pedas, memberikan rasa gurih, pedas, dan tekstur yang renyah.",makanan,250,sedang,cemilan,Sedang,10,35,5
+47,Siomay Bandung,"Siomay yang dikukus dan diisi dengan ikan tenggiri serta sayuran, disajikan dengan saus kacang, memberikan rasa gurih dan segar.",makanan,350,sedang,makanan berat,Sedang,15,40,10
+48,Gehu Pedas,"Tahu yang diisi dengan sayuran dan bumbu pedas, kemudian digoreng, memberikan rasa pedas, gurih, dan renyah.",makanan,270,sedang,makanan ringan,Sedang,10,30,5
+53,Sayur Lodeh,"Sayur yang dimasak dengan kuah santan dan bumbu rempah, memberikan rasa gurih, santan, dan kaya akan gizi.",makanan,280,sedang,makanan berat,Sedang,15,35,10
+58,Nasi Bakar,"Nasi yang dibumbui dan dibakar dalam daun pisang, disajikan dengan ayam atau teri, memberikan rasa gurih, smoky, dan kaya akan rempah.",makanan,330,sedang,makanan berat,Sedang,20,40,15
+60,Cilok,"Aci yang dibentuk bulat dan disajikan dengan bumbu kacang atau saus sambal, memberikan rasa gurih, pedas, dan kenyal.",makanan,200,sedang,cemilan,Rendah,8,30,4
+61,Bakwan Sayur,"Gorengan yang terbuat dari tepung berisi sayur kol dan wortel, memberikan rasa gurih, renyah, dan sedikit manis.",makanan,280,sedang,makanan ringan,Sedang,10,35,5
+64,Kolak Pisang,"Pisang yang direbus dengan kuah santan dan gula merah, memberikan rasa manis, gurih, dan tekstur yang lembut.",makanan,310,sedang,cemilan,Sedang,8,40,5
+67,Lodeh Terong,"Terong yang dimasak dalam kuah santan gurih dengan bumbu rempah, memberikan rasa gurih, manis, dan sedikit pedas.",makanan,230,sedang,makanan ringan,Rendah,6,20,3
+68,Timlo Solo,"Sup yang kaya akan rempah dengan bahan seperti telur, sosis solo, dan sayuran, memberikan rasa gurih, pedas, dan sedikit manis.",makanan,320,sedang,makanan berat,Sedang,15,35,10
+69,Sate Kerang,"Kerang yang direbus dan dibakar, disajikan dengan bumbu pedas manis, memberikan rasa gurih, pedas, dan aroma yang khas.",makanan,220,sedang,makanan ringan,Rendah,10,15,5
+72,Bubur Ketan Hitam,"Bubur yang terbuat dari ketan hitam dan santan, memberikan rasa manis, gurih, dan tekstur yang lembut.",makanan,280,sedang,cemilan,Sedang,8,40,5
+74,Pisang Goreng,"Pisang yang dibalut adonan tepung dan digoreng hingga kecokelatan, memberikan rasa manis, gurih, dan tekstur yang renyah.",makanan,270,sedang,cemilan,Sedang,10,35,5
+78,Tahu Isi,"Tahu yang digoreng dan diisi dengan sayuran atau bihun, memberikan rasa gurih, renyah, dan kaya akan protein.",makanan,250,sedang,makanan ringan,Sedang,12,30,8
+79,Nasi Serundeng,"Nasi yang disajikan dengan kelapa parut goreng dan lauk pauk, memberikan rasa gurih, manis, dan kaya akan rempah.",makanan,370,sedang,makanan berat,Sedang,15,45,10
+82,Gorengan Tempe Mendoan,"Tempe yang dibalur tepung dan digoreng setengah matang, memberikan rasa gurih, renyah, dan sedikit pedas.",makanan,230,sedang,makanan ringan,Sedang,10,20,5
+85,Bolu Kukus,"Kue bolu yang lembut dan dikukus, sering disajikan dalam berbagai warna, memberikan rasa manis dan tekstur yang lembut.",makanan,260,sedang,cemilan,Sedang,8,30,4
+99,Kerupuk Jengkol,"Kerupuk yang terbuat dari olahan jengkol, memberikan rasa gurih, renyah, dan aroma yang khas.",makanan,200,sedang,cemilan,Rendah,10,10,5
+100,Cendol Dawet,"Minuman tradisional yang terbuat dari cendol, santan, dan gula aren, memberikan rasa manis, segar, dan sedikit gurih.",minuman,280,sedang,minuman,Sedang,10,40,5
+114,Kue Lumpur,"Kue panggang yang terbuat dari santan dan kentang, memberikan rasa gurih, manis, dan tekstur yang lembut.",makanan,210,sedang,cemilan,Sedang,8,30,4
+116,Kue Cucur,"Kue goreng yang terbuat dari tepung beras dan gula merah, memberikan rasa manis, gurih, dan tekstur yang renyah.",makanan,240,sedang,cemilan,Sedang,10,35,5
+118,Kue Pancong,"Kue yang terbuat dari tepung beras dan santan, dimasak dalam cetakan setengah lingkaran, memberikan rasa gurih dan manis.",makanan,220,sedang,cemilan,Sedang,8,30,4
+119,Kue Mangkok,"Kue kukus yang berbentuk mangkok dan terbuat dari tepung beras, memberikan rasa manis, gurih, dan tekstur yang lembut.",makanan,200,sedang,cemilan,Rendah,6,25,3
+123,Tahu Telur,"Tahu dan telur yang dimasak dengan saus kacang, memberikan rasa gurih, manis, dan kaya akan protein.",makanan,230,sedang,makanan ringan,Sedang,12,20,8
+131,Papeda,"Bubur yang terbuat dari sagu khas Papua, disajikan dengan ikan kuah kuning, memberikan rasa gurih, pedas, dan kaya akan rempah.",makanan,280,sedang,makanan berat,Sedang,10,40,10
+135,Sop Konro,"Sup iga sapi yang dimasak dengan bumbu khas Makassar, memberikan rasa gurih, pedas, dan kaya akan rempah.",makanan,320,sedang,makanan berat,Sedang,15,35,20
+137,Sate Maranggi,"Sate daging yang dibumbui dengan bumbu khusus dan dibakar, memberikan rasa gurih, pedas, dan aroma yang menggugah selera.",makanan,310,sedang,makanan berat,Sedang,20,40,15
+138,Nasi Gandul,"Nasi yang disajikan dengan kuah khas Pati dan daging, memberikan rasa gurih, rempah, dan sedikit manis.",makanan,340,sedang,makanan berat,Sedang,15,45,10
+139,Soto Medan,"Soto yang kaya akan santan dan rempah, disajikan dengan nasi, memberikan rasa gurih, pedas, dan kaya akan gizi.",makanan,360,sedang,makanan berat,Sedang,20,50,15
+141,Bajigur,"Minuman hangat yang terbuat dari gula aren, santan, dan rempah, memberikan rasa manis, gurih, dan hangat.",minuman,150,sedang,minuman,Rendah,8,20,2
+143,Sekoteng,"Minuman jahe yang dicampur dengan kacang dan pacar cina, memberikan rasa hangat, manis, dan sedikit pedas.",minuman,200,sedang,minuman,Rendah,6,25,3
+144,Ronde,"Minuman jahe yang diisi dengan bola-bola ketan, memberikan rasa manis, gurih, dan kenyal.",minuman,220,sedang,minuman,Sedang,8,30,4
+145,Es Selendang Mayang,"Minuman es yang memiliki lapisan warna-warni, terbuat dari bahan alami, memberikan rasa manis, segar, dan sedikit gurih.",minuman,180,sedang,minuman,Rendah,10,25,3
+146,Es Kacang Merah,"Minuman es yang terbuat dari kacang merah dan santan, memberikan rasa manis, gurih, dan segar.",minuman,200,sedang,minuman,Sedang,8,30,4
+147,Es Goyang,"Minuman es yang digoyang sebelum disajikan, memberikan rasa manis, segar, dan sedikit gurih.",minuman,120,sedang,minuman,Rendah,6,20,2
+150,Es Kopyor,"Minuman es yang terbuat dari daging kelapa kopyor, memberikan rasa manis, gurih, dan segar.",minuman,180,sedang,minuman,Rendah,8,25,3
+157,Wedang Ronde,"Minuman jahe yang diisi dengan bola ketan isi kacang, memberikan rasa hangat, manis, dan gurih.",minuman,210,sedang,minuman,Sedang,6,30,3
+158,Teh Tarik,"Teh susu yang ditarik untuk menghasilkan busa, memberikan rasa manis, gurih, dan aroma yang khas.",minuman,150,sedang,minuman,Rendah,8,20,2
+159,Jahe Susu,"Minuman jahe yang dicampur dengan susu hangat, memberikan rasa manis, gurih, dan hangat.",minuman,140,sedang,minuman,Rendah,6,15,2
+160,Bir Pletok,"Minuman rempah tradisional Betawi yang non-alkohol, memberikan rasa hangat, gurih, dan sedikit manis.",minuman,110,sedang,minuman,Rendah,4,10,1
+162,Susu Jahe Merah,"Susu yang dicampur dengan jahe merah dan gula aren, memberikan rasa manis, gurih, dan hangat.",minuman,170,sedang,minuman,Rendah,8,15,2
+165,Perkedel Jagung,"Bakwan jagung yang digoreng hingga kriuk, memberikan rasa manis, gurih, dan tekstur yang renyah.",makanan,190,sedang,makanan ringan,Rendah,10,35,5
+166,Tahu Sumedang,"Tahu yang digoreng hingga renyah di luar dan lembut di dalam, memberikan rasa gurih, manis, dan kaya akan protein.",makanan,200,sedang,makanan ringan,Rendah,12,20,8

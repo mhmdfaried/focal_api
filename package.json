@@ -1,0 +1,26 @@
+{
+  "name": "focal-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tensorflow/tfjs": "^4.22.0",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "csv-parser": "^3.2.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "firebase": "^11.0.2",
+    "firebase-admin": "^13.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "marked": "^15.0.3",
+    "multer": "^1.4.5-lts.1",
+    "sharp": "^0.34.2"
+  }
+}
