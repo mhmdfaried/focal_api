@@ -9,7 +9,7 @@ const {
   EmailAuthProvider,
 } = require("firebase/auth");
 
-const serviceAccount = require("./firebase-admin-config.json");
+var serviceAccount = require("./firebase-admin-config.json");
 
 // Pastikan belum diinisialisasi sebelumnya
 if (admin.apps.length === 0) {
