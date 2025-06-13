@@ -51,3 +51,7 @@ Thumbs.db
 
 # Yarn Integrity file
 .yarn-integrity utils/firebase-admin-config.json
+
+# Other Config
+firebase-admin-config.json
+docker-compose.yml

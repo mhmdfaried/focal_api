@@ -14,7 +14,7 @@ const app = express();
 // Aktifkan CORS secara global ⬇️
 app.use(
   cors({
-    origin: "http://localhost:5173", // ganti dengan domain frontend kamu
+    origin: process.env.URL_DOMAIN, // ganti dengan domain frontend kamu
     credentials: true,
   })
 );
